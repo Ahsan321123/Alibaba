@@ -1,0 +1,37 @@
+
+
+
+.MuiBreadcrumbs-ol{
+
+    margin: 4px;
+}
+
+.list{
+    list-style: none;
+}
+.css-1dk9rsx-MuiPaper-root{
+    height: 150px;
+    margin-top: 38px;
+    width: 400px;
+   
+}
+.css-1t29gy6-MuiToolbar-root{
+    background-color: whitesmoke;
+    color:black;
+}
+
+.search input{
+    border-radius:20px 0 0 20px; 
+
+
+    margin-right: 140px;
+    margin-left: 8em;
+    width: 600px;
+
+    height: 40px;
+}
+.ui-searchbar-submit{
+    border-radius: 0 30px 30px 0;
+    margin-left: -141px;
+    line-height: 35px;
+}
